@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2652683305487176529
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2652683305487176528}
+  m_Layer: 0
+  m_Name: Bucket3SoulStone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2652683305487176528
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2652683305487176529}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.2308197, y: 0.44805765, z: -6.867885}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2547489363655318078}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &2652683304788016597
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2652683305487176528}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.46917725
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.44805765
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.867885
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7695345323285798764, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1c3d73842ae64a143847044ba6b1dccb, type: 2}
+    - target: {fileID: 919132149155446097, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_Name
+      value: Bucket3SoulStone
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6060754284354700795, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ac585c9d227490343b17329e2b11e907, type: 2}
+    - target: {fileID: 6277133520716698970, guid: ee134997acc0c814998d389956c155c0, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ad7011f44ec0dc54898dfb1ba49a7940, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ee134997acc0c814998d389956c155c0, type: 3}
+--- !u!4 &2547489363655318078 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ee134997acc0c814998d389956c155c0, type: 3}
+  m_PrefabInstance: {fileID: 2652683304788016597}
+  m_PrefabAsset: {fileID: 0}

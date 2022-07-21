@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &973103666036933346
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 973103666036933347}
+  m_Layer: 0
+  m_Name: CourtyardFoundation
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &973103666036933347
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 973103666036933346}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -16.900002, y: 13.509125, z: -3.7599988}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 723832546658172448}
+  - {fileID: 723832545741659679}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &973103665417050571
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 973103666036933347}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -5.699125
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 66ef6f0a5cfcda14eb9c68f1c7a72a98, type: 2}
+    - target: {fileID: 919132149155446097, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+      propertyPath: m_Name
+      value: CourtyardFoundation2Corner
+      objectReference: {fileID: 0}
+    - target: {fileID: 1303463289428631554, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 64ddd495bfa0022478ba23fa6803be42, type: 2}
+    - target: {fileID: 6193462654325683394, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0a575c0b1b9b973459ed235c57e886df, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+--- !u!4 &723832546658172448 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 71be8fbfef70921448041d808834c6f6, type: 3}
+  m_PrefabInstance: {fileID: 973103665417050571}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &973103666367117812
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 973103666036933347}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 2f4932f7de298f442b9669a7b96d70c9, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2f4932f7de298f442b9669a7b96d70c9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.910004
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2f4932f7de298f442b9669a7b96d70c9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -13.509125
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2f4932f7de298f442b9669a7b96d70c9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 3.7599988
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2f4932f7de298f442b9669a7b96d70c9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2f4932f7de298f442b9669a7b96d70c9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2f4932f7de298f442b9669a7b96d70c9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2f4932f7de298f442b9669a7b96d70c9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2f4932f7de298f442b9669a7b96d70c9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2f4932f7de298f442b9669a7b96d70c9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2f4932f7de298f442b9669a7b96d70c9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2f4932f7de298f442b9669a7b96d70c9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a99660a0df2a8e0418488425991298fc, type: 2}
+    - target: {fileID: 919132149155446097, guid: 2f4932f7de298f442b9669a7b96d70c9, type: 3}
+      propertyPath: m_Name
+      value: CourtyardFoundation (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2f4932f7de298f442b9669a7b96d70c9, type: 3}
+--- !u!4 &723832545741659679 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 2f4932f7de298f442b9669a7b96d70c9, type: 3}
+  m_PrefabInstance: {fileID: 973103666367117812}
+  m_PrefabAsset: {fileID: 0}

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6624323070047856385
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6624323070047856384}
+  - component: {fileID: 6624323070047856387}
+  m_Layer: 0
+  m_Name: EmojiManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6624323070047856384
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6624323070047856385}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 21.991302, y: 20.39296, z: 25.31628}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6624323070047856387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6624323070047856385}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94153313a66a3994d81b266d4d0bcb6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  emojis:
+  - {fileID: 21300000, guid: 6ef9f68f737c14f4497a21ad7eb77f0c, type: 3}
+  - {fileID: 21300000, guid: 35dd77d833a71d54da78e21efbfa3593, type: 3}
+  - {fileID: 21300000, guid: 3ee9429de763f63459f6ed9a4371c2ca, type: 3}
+  - {fileID: 21300000, guid: ebea6262d8ee0b043840d3f6ead92d1e, type: 3}
+  - {fileID: 21300000, guid: c98aa2280d5098e40bcb8db9e081fa0d, type: 3}
+  - {fileID: 21300000, guid: 89a1c4f83e1c6d94a825322e28dcdc59, type: 3}
+  - {fileID: 21300000, guid: 60c7428b235ef0f4cb4f758d5ba339d4, type: 3}
+  caraEmotionBust:
+  - {fileID: 21300000, guid: 1f3c0bef45c5ac145bb7f53992533d71, type: 3}
+  - {fileID: 21300000, guid: 1cc8a85fd23863f4b9ad6a7d420fefa2, type: 3}
+  - {fileID: 21300000, guid: ef7e826d3faf6d34abf8fa0c4206a894, type: 3}
+  celfEmotionBust:
+  - {fileID: 21300000, guid: 385db6fa1db5c0e42ab3202c714b0579, type: 3}
+  - {fileID: 21300000, guid: 883b6abd8915c644bae311bbab2307a8, type: 3}
+  ruskatEmotionBust:
+  - {fileID: 21300000, guid: afe0200eaab3a0944bc18d76347b83ce, type: 3}
+  emojiClips:
+  - {fileID: 7400000, guid: ccf109439cb5c2847878315dd071e74d, type: 2}
+  - {fileID: 7400000, guid: 0d4d02849b7f2ac4d96d9771f3002621, type: 2}
+  - {fileID: 7400000, guid: 9fe7a93d6fb3b9b4eb207142a278aed1, type: 2}
+  - {fileID: 7400000, guid: 85a1451d0a7ebfb499bab3150b8ddfc6, type: 2}
+  - {fileID: 7400000, guid: 9dfcc2e70f0dc2a49a582a0cb80bd463, type: 2}
+  - {fileID: 7400000, guid: e4774ad9650b72748be8ed8bbc6e8eaa, type: 2}
+  - {fileID: 7400000, guid: e93961a7c458a9d45bc55060d0f6a299, type: 2}

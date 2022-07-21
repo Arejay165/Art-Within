@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8871274160146409512
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1761643052, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: willDestory
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1761643052, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: canStopPlayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1761643052, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: dialogues.Array.data[0]
+      value: 
+      objectReference: {fileID: 11400000, guid: 9e9c5940dde834e4f9892e46d54d70fd, type: 2}
+    - target: {fileID: 2664708521299218357, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521299218359, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_text
+      value: TEXT NO PANEL
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521299218359, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_margin.x
+      value: -65.088264
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521299218359, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 247f092502636164bb304c6b1d3d6821, type: 2}
+    - target: {fileID: 2664708521299218359, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -709679961715060339, guid: 247f092502636164bb304c6b1d3d6821, type: 2}
+    - target: {fileID: 2664708521299218359, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521299218359, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521736236952, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671616, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
+    - target: {fileID: 2664708521800671616, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_Name
+      value: N_X-1-to-X-2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671618, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671620, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671620, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 8.245306
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671620, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -25.5024
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671620, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -5.932758
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671620, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 23.400002
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671620, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671620, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671620, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671620, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671620, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671620, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671620, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671621, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: message
+      value: TEST TEXT NO PANEL
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671621, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: canStopPlayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2664708521800671621, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
+      propertyPath: playerMovementScript
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 28bb64b43892dc641a1c611704bf7139, type: 3}
